@@ -1,5 +1,5 @@
 ### Hi there, I'm Rohan👋
-A full stack developer with a 3.5 years of experience in Tech Industry. Currently pursuing my Master's in CS. I'm a passionate developer with a knack for problem-solving and continuous learning. I thrive in dynamic environments where I can apply my skills to create innovative solutions. Whether it's front-end development to enhance user experience or back-end optimization for seamless functionality, I'm dedicated to delivering high-quality, scalable software. Let's connect and bring your ideas to life! 
+A full stack developer with a 3.5 years of experience in Tech Industry. Currently pursuing my Master's in CS. I'm a passionate developer with a knack for problem-solving and continuous learning. I thrive in dynamic environments where I can apply my skills to create innovative solutions.
 
 <!--
 **rohanbawa/rohanbawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+--> 
+Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,py)](https://skillicons.dev)
+<br>
