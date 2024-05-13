@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 Streak Stats
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohanbawa)](https://git.io/streak-stats)
+
+Contribution Stats
+---
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rohanbawa)](https://github.com/LordDashMe/github-contribution-stats/)
+
 Languages
 ---
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,py)](https://skillicons.dev)
