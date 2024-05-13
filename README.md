@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 Languages
-<br>
+---
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,py)](https://skillicons.dev)
 <br>
