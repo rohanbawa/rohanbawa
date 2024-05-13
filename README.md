@@ -18,4 +18,23 @@ Here are some ideas to get you started:
 Languages
 ---
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,py)](https://skillicons.dev)
-<br>
+
+Databases
+---
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,dynamodb)](https://skillicons.dev)
+
+Frameworks
+---
+[![My Skills](https://skillicons.dev/icons?i=express,react,tailwind,spring,gradle,maven)](https://skillicons.dev)
+
+Cloud
+---
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+
+Version Control
+---
+[![My Skills](https://skillicons.dev/icons?i=git,bitbucket,github)](https://skillicons.dev)
+
+Tools
+---
+[![My Skills](https://skillicons.dev/icons?i=docker,vscode,eclipse,postman,jenkins,kafka)](https://skillicons.dev)
