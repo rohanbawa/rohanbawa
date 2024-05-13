@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+Streak Stats
+---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohanbawa)](https://git.io/streak-stats)
 Languages
 ---
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,py)](https://skillicons.dev)
