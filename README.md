@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 --> 
-Streak Stats
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rohanbawa)](https://git.io/streak-stats)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rohanbawa)
+
 
 
 Languages
