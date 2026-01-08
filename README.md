@@ -19,9 +19,6 @@ Streak Stats
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohanbawa)](https://git.io/streak-stats)
 
-Contribution Stats
----
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rohanbawa)](https://github.com/LordDashMe/github-contribution-stats/)
 
 Languages
 ---
